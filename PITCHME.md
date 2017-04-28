@@ -1,4 +1,12 @@
+# BUSINESS MODELS
+
+---?video=assets/earth.mp4
+
+---?video=assets/earth.mp4
+
 # Slide 1
+
+> Quote explaining something cool
 
 ## Header 2
 
@@ -6,16 +14,86 @@
 
 ---
 
-# Slide 2
-
-> Quote explaining something cool
-
----?video=https://www.dropbox.com/s/5dozmrc2z67jow4/working.mp4
+Lorem ipsum normal text to check how it gets renderd
 
 
 ---?video=assets/working.mp4
 
 ## WORLD DOMINATION
+
+---?video=assets/moon.mp4
+
+---?video=assets/moon.mp4
+
+# BUSINESS MODEL CANVAS
+
+### Key partners
+
+### Value propositions
+
+### Customer relationships
+
+### Customer segments
+
+---?video=assets/neighbour.mp4
+
+# KEY PARTNERS
+
++++
+
+## Technology partners
+
++++
+
+## Knowledge partners
+
++++
+
+## Domain partners
+
+---
+
+# VALUE PROPOSITIONS
+
++++
+
+# Baseline: assessment
+
++++
+
+# Baseline: planning
+
++++
+
+# Temporal: monitoring & evaluation
+
+---
+
+# CUSTOMER RELATIONSHIPS
+
++++
+
+## Rel 1
+
++++
+
+## Rel 2
+
+---
+
+# CUSTOMER SEGMENTS
+
++++
+
+## Private: plantation companies
+
++++
+
+## NGO's
+
++++
+
+
 
 ---
 
