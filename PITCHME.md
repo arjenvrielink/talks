@@ -106,7 +106,8 @@
 
 ---
 
-FOR <customer segment>, WHO HAS <customer need>, <product> IS A <market category> THAT <key benefit>. UNLIKE <competition>, THE PRODUCT <differentiator>.
+FOR [_customer segment_], WHO HAS [_customer need_], [_product_] IS A [_market category_] THAT [_key benefit_]. UNLIKE [_competition_], THE PRODUCT [_differentiator_].
+
 
 ---
 
