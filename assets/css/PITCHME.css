@@ -1,9 +1,9 @@
 .reveal {
     color: #F05A23;
     font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
-    font-family: 'Merriweather', serif;
     color: #F05A23;
 }
