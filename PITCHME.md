@@ -1,39 +1,32 @@
-# BUSINESS MODELS
+---
 
----?video=assets/earth.mp4
-
----?video=assets/earth.mp4
-
-# Slide 1
-
-> Quote explaining something cool
-
-## Header 2
-
-### Header 3
+# WIE ZIJN WIJ?
 
 ---
 
-Lorem ipsum normal text to check how it gets renderd
+### Wat zijn onze gaten?
 
+---?video=assets/earth.mp4
+
+0. General
+
+1. Business Model Canvas
+
+2. Elevator Pitch
 
 ---?video=assets/working.mp4
 
-## WORLD DOMINATION
-
----?video=assets/moon.mp4
-
----?video=assets/moon.mp4
-
 # BUSINESS MODEL CANVAS
 
-### Key partners
+---?video=assets/moon.mp4
 
-### Value propositions
+1. Key partners
 
-### Customer relationships
+2. Value propositions
 
-### Customer segments
+3. Customer relationships
+
+4. Customer segments
 
 ---?video=assets/neighbour.mp4
 
@@ -73,11 +66,11 @@ Lorem ipsum normal text to check how it gets renderd
 
 +++
 
-## Rel 1
+## Automated service
 
 +++
 
-## Rel 2
+## Custom consultancy??
 
 ---
 
@@ -85,7 +78,19 @@ Lorem ipsum normal text to check how it gets renderd
 
 +++
 
-## Private: plantation companies
+## Producers / Refiners
+
++++
+
+## Manufacturers
+
++++
+
+## Traders / Importers / Exporters
+
++++
+
+## IFI
 
 +++
 
@@ -93,13 +98,34 @@ Lorem ipsum normal text to check how it gets renderd
 
 +++
 
-
+## Government
 
 ---
 
-# FOREST
-# AGRI
-# SURFACE WATER
+# Elevator Pitch
+
+---
+
+FOR <customer segment>, WHO HAS <customer need>, <product> IS A <market category> THAT <key benefit>. UNLIKE <competition>, THE PRODUCT <differentiator>.
+
+---
+
+0. GENERAL
+1. FOREST
+2. AGRI
+3. SURFACE WATER
+
+---
+
+# GENERAL
+
++++
+
+# Mission
+
++++
+
+# Vision
 
 ---
 
