@@ -1,8 +1,7 @@
----?video=assets/Tulum_Pier.mp4
 
 # WIE ZIJN WIJ?
 
----
+---?video=assets/pier.mp4
 
 ### Wat zijn onze gaten?
 
