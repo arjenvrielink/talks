@@ -3,7 +3,7 @@
 
 ---?video=assets/pier.mp4
 
-### Wat zijn onze gaten?
+# Wat zijn onze gaten?
 
 ---?video=assets/earth.mp4
 
@@ -121,11 +121,11 @@ FOR [_customer segment_], WHO HAS [_customer need_], [_product_] IS A [_market c
 
 +++
 
-# Mission
+# Earth Observation for Society & Sustainable Environment
 
 +++
 
-# Vision
+# Actionable information to manage risks to natural capital
 
 +++?image=assets/strategy.jpg
 
@@ -133,7 +133,7 @@ FOR [_customer segment_], WHO HAS [_customer need_], [_product_] IS A [_market c
 
 # FOREST
 
-+++?image=assets/water_1.jpg
++++
 
 
 FOR _plantation businesses_, WHO HAVE  _customer need_, the _Forest Change Bulletin_ IS A _monitoring and evaluation tool_ THAT _provides alerts about tree cover changes_. UNLIKE _Global Forest Watch_, THE PRODUCT _is timely and accurate_.
@@ -142,11 +142,15 @@ FOR _plantation businesses_, WHO HAVE  _customer need_, the _Forest Change Bulle
 
 # AGRI
 
-+++?image=assets/agri_1.jpg
++++
+
+FOR ...
 
 
 ---?image=assets/flooding_1.jpg
 
 # SURFACE WATER
 
-+++?image=assets/flooding_1.jpg
++++
+
+FOR ...
