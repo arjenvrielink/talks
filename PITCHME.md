@@ -138,7 +138,7 @@ FOR [_customer segment_], WHO HAS [_customer need_], [_product_] IS A [_market c
 +++
 
 
-FOR _plantation businesses_, WHO NEED TO  _reduce risk_, the _Forest Change Bulletin_ IS A _monitoring and evaluation tool_ THAT _provides alerts about tree cover changes_. UNLIKE _Global Forest Watch_, THE PRODUCT _is timely and accurate_.
+FOR _plantation businesses_, WHO NEED TO  _reduce risk_, the _Forest Change Bulletin_ IS A _monitoring and evaluation tool_ THAT _enables them to control illegal deforestation_. UNLIKE _Global Forest Watch_, THE PRODUCT _is timely and accurate_.
 
 ---?image=assets/agri_1.jpg
 
