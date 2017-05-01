@@ -7,8 +7,6 @@
 
 ---?video=assets/earth.mp4
 
-0. General
-
 1. Business Model Canvas
 
 2. Elevator Pitch
@@ -19,57 +17,13 @@
 
 ---?video=assets/moon.mp4
 
-1. Key partners
+1. Customer segments
 
 2. Value propositions
 
 3. Customer relationships
 
-4. Customer segments
-
----?video=assets/neighbour.mp4
-
-# KEY PARTNERS
-
-+++
-
-## Technology partners
-
-+++
-
-## Knowledge partners
-
-+++
-
-## Domain partners
-
----
-
-# VALUE PROPOSITIONS
-
-+++
-
-# Baseline: assessment
-
-+++
-
-# Baseline: planning
-
-+++
-
-# Temporal: monitoring & evaluation
-
----
-
-# CUSTOMER RELATIONSHIPS
-
-+++
-
-## Automated service
-
-+++
-
-## Custom consultancy??
+4. Key partners
 
 ---
 
@@ -98,6 +52,54 @@
 +++
 
 ## Government
+
+---
+
+# VALUE PROPOSITIONS
+
++++
+
+# Baseline: assessment
+
++++
+
+# Baseline: planning
+
++++
+
+# Temporal: monitoring & evaluation
+
+---
+
+# CUSTOMER RELATIONSHIPS
+
++++
+
+## Strong customer relationships
+
++++
+
+## Automated service
+
++++
+
+## Custom consultancy??
+
+---?video=assets/neighbour.mp4
+
+# KEY PARTNERS
+
++++
+
+## Technology partners
+
++++
+
+## Knowledge partners
+
++++
+
+## Domain partners
 
 ---
 
